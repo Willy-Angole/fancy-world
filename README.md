@@ -1,4 +1,4 @@
-# Pickbazar Documentation
+# Fancy World Documentation
 
 # Introduction
 
